@@ -1,0 +1,14 @@
+{
+	"category" : "BracketGenerator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"names" ],
+	"name" : "BracketGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
